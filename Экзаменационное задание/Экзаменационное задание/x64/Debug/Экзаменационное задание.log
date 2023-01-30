@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\misha\source\repos\Экзаменационное задание\Экзаменационное задание\Source.cpp(1739,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\misha\source\repos\Экзаменационное задание\Экзаменационное задание\Source.cpp(752): warning C4715: isDestroyed: значение возвращается не при всех путях выполнения
+  Экзаменационное задание.vcxproj -> C:\Users\misha\source\repos\Экзаменационное задание\x64\Debug\Экзаменационное задание.exe

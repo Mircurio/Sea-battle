@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\misha\source\repos\Экзаменационное задание\Экзаменационное задание\Source.cpp(1739,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\misha\source\repos\Экзаменационное задание\Экзаменационное задание\Source.cpp(752): warning C4715: isDestroyed: значение возвращается не при всех путях выполнения
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Экзаменационное задание.vcxproj -> C:\Users\misha\source\repos\Экзаменационное задание\x64\Release\Экзаменационное задание.exe
